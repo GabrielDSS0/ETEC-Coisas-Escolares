@@ -1,0 +1,16 @@
+Dono: 1- Quantidade de quartos com quantidades de pessoas que cada quarto podera ser acomodada e tambem quais tipos de quarto o cliente deseja, 2- todos os serviços que o hotel prestara para o cliente sera solicitado via site do hotel, 3- imagens sobre o hotel, com funçao de chamar a atençao do cliente, 4- sistema de cadastro como: CPF,RG,CRIAR UMA SENHA PARA SE CADASTRAR, ESCOLHER UM EMAIL PARA RECEBIMENTO DE RECIBOS,PROMOÇOES,ETC, 5- sistema de pagamento via boleto, cartao de credito/debito, pix, 6- 
+
+
+quantidade de quartos do hotel
+quantidade de pessoas para cada quarto
+tipos de quartos (suite)
+serviços
+alimentação
+localização do hotel
+ano 
+site do hotel
+imagem principal do hotel
+e-mail
+cnpj
+nome do hotel
+login do hotel

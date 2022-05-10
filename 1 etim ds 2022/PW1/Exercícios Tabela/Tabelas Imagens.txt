@@ -1,0 +1,17 @@
+<HTML>
+<HEAD>
+<TITLE> Aula de TPPI-1 Tabelas</TITLE>
+</HEAD>
+<BODY bgcolor="RED">
+<table border="3">
+<tr>
+<th> ESTADO </th>
+<th> Município </th>
+</tr>
+<tr>
+<td><IMG SRC="saopaulo.jpg"></td>
+<td><IMG SRC="Bandeira_de_Olímpia.png"></td>
+</tr>
+</table>
+</BODY>
+</HTML>

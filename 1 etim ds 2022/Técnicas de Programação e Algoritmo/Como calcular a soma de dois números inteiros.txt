@@ -1,0 +1,5 @@
+Como calcular a soma de dois números inteiros.
+
+Pense em um número inteiro aleatório
+Pense em um número inteiro aleatório
+Some o primeiro número inteiro pensado com o segundo número inteiro pensado

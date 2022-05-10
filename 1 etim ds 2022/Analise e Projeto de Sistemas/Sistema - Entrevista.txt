@@ -1,0 +1,15 @@
+1 - Qual a finalidade do sistema?
+2 - Existe algum sistema que serve como modelo ao seu desejo?
+3 - O sistema terá alguma funcionalidade que permita o registro do usuário? Se sim, quais informações seriam exigidas para o cadastro? Onde será localizado na página o botão de registro e login?
+4 - O sistema estará disponível para todas as plataformas? Desktop, Web, Android, etc.
+5 - Onde serão localizados os botões que servirão de acesso às paginas (como por exemplo, botões para acessar à pagina de compras de livros, página para acessar a lista de livros adicionados recentemente, etc)?
+6 - Onde será localizado a logo do sistema?
+7 - Quais informações o usuário poderá inserir no sistema, além das colocadas no registro?
+8 - O quanto que o sistema auxiliará no usuário durante sua interação com a aplicação?
+9 - Quais serão as informações que o sistema inserirá na página inicial? Onde elas serão localizadas?
+10 - Quais serão as páginas do sistema que o usuário não terá acesso, mas o administrador sim?
+11 - O sistema terá uma página de acesso as perguntas mais frequentes (FAQ)? Se sim, quais serão as perguntas e quais serão as respostas.
+12 - O sistema disponibilizará um método de feedback?
+13 - Quantas pessoas irão utilizar o sistema em estimativa?
+14 - Seria mais interessante fazer uma página inicial mais limpa (com botões menores, fonte média/pequena, cores mais neutras) ou mais cheias (botões maiores, fonte grande, cores frias/quentes em abundância).
+15 - Quais serão as cores principais do design do sistema?
