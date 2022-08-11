@@ -1,6 +1,20 @@
 Conceito: Tem como objetivo promover uma vasta quantidade de modelos em si mesmo como: modelo cascata, prototipaçao, etc. Com isso o desenvolvedor tem como utlidade do modelo espiral, que em toda a fase do desenvolvimento do software realiza analise de riscos que podem afetar o desenvolvimento do software como pessoas que abandonam a equipe de dsenvolvedores, falha em equipamento utilizados, etc.
 História: Modelo espiral é um modelo de desenvolvimento de software desenvolvido pelo engenheiro de software americano Barry Boehm. Este modelo utiliza procedimentos iterativos de protipação e é baseado em uma sequência linear de desenvolvimento.
-O modelo foi criado pelo Barry Boehm em 1986, em sua obra "A Spiral Model Of Software Development and Enhancement". Nela, Boehm produziu um diagrama que foi utilizado em muitas publicações posteriores sobre este modelo. Boehm descreveu o modelo espiral como um "processo de gerador de modelos", onde as escolhas são baseadas no risco do projeto gerar um modelo apropriado. O modelo incremental, o cascata, o de prototipação, e outros modelos são casos especiais do modelo espiral que podem ter espaço em certos projetos. Boehm também definiu alguns conceitos errados que as psesoas têm sobre o modelo espiral:
+O modelo foi criado pelo Barry Boehm em 1986, em sua obra "A Spiral Model Of Software Development and Enhancement". Nela, Boehm produziu um diagrama que foi utilizado em mui			tas publicações posteriores sobre este modelo. Boehm descreveu o modelo espiral como um "processo de gerador de modelos", onde as escolhas são baseadas no risco do projeto gerar um modelo apropriado. O modelo incremental, o cascata, o de prototipação, e outros modelos são casos especiais do modelo espiral que podem ter espaço em certos projetos. Boehm também definiu alguns conceitos errados que as psesoas têm sobre o modelo espiral:
 - "O modelo espiral é uma simples cópia com algumas modificações do modelo cascata"
 - "Todos os projetos seguem o modelo espiral"	
 - "Toda a atividade no modelo espiral deve ser condensada em um diagrama, e mostradas em ordem"
+
+Entre suas vantagens, se nota a vasta quantidade de análises de riscos, bugs e erros no desenvolvimento do projeto. É um modelo sólido para projetos grandes com equipes grandes, visto que esse modelo analisa de forma minuciosa os riscos e erros. No entanto, por ser um modelo que necessita de um projeto grande, o custo para aplicá-lo pesa.
+
+- Conceito;
+
+- História (quando, como, onde);
+
+- Características principais;
+
+- Vantagens;
+
+- Desvantagens;
+
+- Utilização (exemplos de situações onde é mais utilizado).
