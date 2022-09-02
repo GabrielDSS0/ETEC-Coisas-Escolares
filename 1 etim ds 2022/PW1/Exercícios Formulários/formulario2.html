@@ -1,0 +1,33 @@
+<HTML>
+<HEAD>
+<TITLE>  Criando FORMS </TITLE>
+</HEAD>
+<BODY style="background-image: url('formulario2img.jpg'); background-position: 50%; background-size: cover;">
+<FORM>
+Dados pessoais: <BR><BR>
+Nome completo: <INPUT TYPE="TEXT" NAME="NOME" SIZE="50" placeholder="Digite seu nome aqui">
+<BR>
+<BR>
+Sexo: <INPUT TYPE="RADIO" NAME="SEXO" VALUE="FEMININO" CHECKED> Feminino
+ <INPUT TYPE="RADIO" NAME="SEXO" VALUE="MASCULINO"> Masculino<BR><BR>
+Idade:
+<SELECT NAME="IDADE">
+<OPTION VALUE="-18">Menor que 18</OPTION>
+<OPTION VALUE="18-30" CHECKED>Entre 18 e 30</OPTION>
+<OPTION VALUE="30-50" CHECKED>Entre 30 e 50</OPTION>
+<OPTION VALUE="50-70" CHECKED>Entre 50 e 70</OPTION>
+<OPTION VALUE="+70">Maior que 70</OPTION>
+</SELECT><BR><BR>
+Voce usa a internet em:
+<INPUT TYPE="CHECKBOX" NAME="INTERNET" VALUE="CASA" CHECKED> Casa
+<INPUT TYPE="CHECKBOX" NAME="INTERNET" VALUE="ESCOLA" CHECKED> Escola
+<INPUT TYPE="CHECKBOX" NAME="INTERNET" VALUE="TRABALHO" CHECKED> Trabalho<BR><BR>
+Fale um pouco sobre voce:<BR>
+<TEXTAREA NAME="VOCE" ROWS="5" COLS="70" WRAP="VIRTUAL">
+Fale aqui o que voce acharia
+interessante mencionar sobre voce.
+</TEXTAREA><BR><BR>
+<INPUT TYPE="RESET" VALUE="Limpar"> <INPUT TYPE="submit" VALUE="Enviar">
+</FORM>
+</BODY>
+</HTML>
