@@ -1,0 +1,15 @@
+C:\Users\Gatch\OneDrive\Documentos\Programação\C Sharp\C SHARP 1\C SHARP 1\bin\Debug\net6.0\C SHARP 1.exe
+C:\Users\Gatch\OneDrive\Documentos\Programação\C Sharp\C SHARP 1\C SHARP 1\bin\Debug\net6.0\C SHARP 1.deps.json
+C:\Users\Gatch\OneDrive\Documentos\Programação\C Sharp\C SHARP 1\C SHARP 1\bin\Debug\net6.0\C SHARP 1.runtimeconfig.json
+C:\Users\Gatch\OneDrive\Documentos\Programação\C Sharp\C SHARP 1\C SHARP 1\bin\Debug\net6.0\C SHARP 1.dll
+C:\Users\Gatch\OneDrive\Documentos\Programação\C Sharp\C SHARP 1\C SHARP 1\bin\Debug\net6.0\C SHARP 1.pdb
+C:\Users\Gatch\OneDrive\Documentos\Programação\C Sharp\C SHARP 1\C SHARP 1\obj\Debug\net6.0\C SHARP 1.csproj.AssemblyReference.cache
+C:\Users\Gatch\OneDrive\Documentos\Programação\C Sharp\C SHARP 1\C SHARP 1\obj\Debug\net6.0\C SHARP 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gatch\OneDrive\Documentos\Programação\C Sharp\C SHARP 1\C SHARP 1\obj\Debug\net6.0\C SHARP 1.AssemblyInfoInputs.cache
+C:\Users\Gatch\OneDrive\Documentos\Programação\C Sharp\C SHARP 1\C SHARP 1\obj\Debug\net6.0\C SHARP 1.AssemblyInfo.cs
+C:\Users\Gatch\OneDrive\Documentos\Programação\C Sharp\C SHARP 1\C SHARP 1\obj\Debug\net6.0\C SHARP 1.csproj.CoreCompileInputs.cache
+C:\Users\Gatch\OneDrive\Documentos\Programação\C Sharp\C SHARP 1\C SHARP 1\obj\Debug\net6.0\C SHARP 1.dll
+C:\Users\Gatch\OneDrive\Documentos\Programação\C Sharp\C SHARP 1\C SHARP 1\obj\Debug\net6.0\refint\C SHARP 1.dll
+C:\Users\Gatch\OneDrive\Documentos\Programação\C Sharp\C SHARP 1\C SHARP 1\obj\Debug\net6.0\C SHARP 1.pdb
+C:\Users\Gatch\OneDrive\Documentos\Programação\C Sharp\C SHARP 1\C SHARP 1\obj\Debug\net6.0\C SHARP 1.genruntimeconfig.cache
+C:\Users\Gatch\OneDrive\Documentos\Programação\C Sharp\C SHARP 1\C SHARP 1\obj\Debug\net6.0\ref\C SHARP 1.dll
