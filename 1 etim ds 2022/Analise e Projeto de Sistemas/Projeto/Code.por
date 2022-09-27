@@ -11,7 +11,7 @@ programa
 		cadeia dezenas[10] = {"", "X", "XX", "XXX", "XL", "L", "LX", "LXX", "LXXX", "XC"}
 		cadeia centenas[10] = {"", "C", "CC", "CCC", "CD", "D", "DC", "DCC", "DCCC", "CM"}
 		cadeia milhares[10] = {"", "M", "MM", "MMM", "IV", "V", "VI", "VII", "VIII", "IX"}
-		inteiro numeroCaracteres, c, unidade, dezena, centena, milhar
+		inteiro numeroCaracteres, c, unidade, dezena, centena, milhar, numeroInteiro
 
 		unidade = 0
 		dezena = 0
@@ -21,12 +21,13 @@ programa
 		escreva("Digite um número de 1 até 9999: \n")
 		leia(numeroDigitado)
 
+		numeroCaracteres = t.numero_caracteres(numeroDigitado)
+
 		se (nao tipo.cadeia_e_inteiro(numeroDigitado, 10)) {
 		escreva("Você não escreveu um número.")
 		}
 
-		senao {
-		numeroCaracteres = t.numero_caracteres(numeroDigitado)
+		senao se (numeroCaracteres <= 4){
 
 		para (c=1;c<=numeroCaracteres;c+=1)
 		{
@@ -61,16 +62,25 @@ programa
 		DezenaRomano = dezenas[dezena]
 		CentenaRomano = centenas[centena]
 		MilharRomano = milhares[milhar]
+		numeroInteiro = tipo.cadeia_para_inteiro(numeroDigitado, 10)
 
-		fraseFinal = "O número digitado, em algarismos romanos é: \nmilharRomanocentenaRomanadezenaRomanaunidadeRomana"
+		fraseFinal = "O número digitado em algarismos romanos é: \nmilharRomanocentenaRomanadezenaRomanaunidadeRomana"
 
 		fraseFinal = t.substituir(fraseFinal, "milharRomano", MilharRomano)
 		fraseFinal = t.substituir(fraseFinal, "centenaRomana", CentenaRomano)
 		fraseFinal = t.substituir(fraseFinal, "dezenaRomana", DezenaRomano)
 		fraseFinal = t.substituir(fraseFinal, "unidadeRomana", UnidadeRomano)
 
+		se (numeroInteiro * 10 == 0) {
+		fraseFinal = "O número digitado é zero, sendo assim, não tem representação em algarismos romanos!"	
+		}
+
 		escreva(fraseFinal)
 		
+		}
+
+		senao {
+		escreva("Você digitou mais que 5 dígitos.")	
 		}
 	}
 } 
@@ -79,7 +89,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 1960; 
+ * @POSICAO-CURSOR = 2635; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
