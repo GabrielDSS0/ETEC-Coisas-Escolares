@@ -1,0 +1,6 @@
+c:\users\etim\documents\visual studio 2013\Projects\operaçoes basicas\operaçoes basicas\bin\Debug\operaçoes basicas.exe.config
+c:\users\etim\documents\visual studio 2013\Projects\operaçoes basicas\operaçoes basicas\bin\Debug\operaçoes basicas.exe
+c:\users\etim\documents\visual studio 2013\Projects\operaçoes basicas\operaçoes basicas\bin\Debug\operaçoes basicas.pdb
+c:\users\etim\documents\visual studio 2013\Projects\operaçoes basicas\operaçoes basicas\obj\Debug\operaçoes basicas.csprojResolveAssemblyReference.cache
+c:\users\etim\documents\visual studio 2013\Projects\operaçoes basicas\operaçoes basicas\obj\Debug\operaçoes basicas.exe
+c:\users\etim\documents\visual studio 2013\Projects\operaçoes basicas\operaçoes basicas\obj\Debug\operaçoes basicas.pdb
