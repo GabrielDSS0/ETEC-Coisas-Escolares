@@ -1,91 +1,523 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Matrícula</title>
 </head>
-<body style="background-color: rgb(29, 194, 194) ;">
+
+<body>
     <form method="post">
+        <div style="font-size: 22  px; font-weight: bold;">
         <fieldset>
             <legend>DADOS PESSOAIS</legend>
-            <tr>
-                <div style="font-size: 18   px;">
-                    <label> RM:</label>
-                    <input type="text">
-                    <label> NOME:</label>
-                    <input type="text">
-                    <br>
-                    <label> DATA DE NASCIMENTO:</label>
-                    <input type="text" style="border: none";>
-                    <fieldset style="width: 10px;">
-                    <label style="font-weight: bold; font-size: 16px;">EX: 00.000.000-0/UF
-                    </label> 
-                    <br>
-                    <label> RG:</label>
-                    <input type="text">
-                    </fieldset>
-                    <label> RA:</label>
-                    <input type="text">
-                    <label> RNE:</label>
-                    <input type="text">
-                    <label> CPF:</label>
-                    <input type="text">
-                    <br>
-                    <label> AFRODESCENDENTE:</label>
-                    <input type="text">
-                    <label> NATURALIDADE:</label>
-                    <input type="text">
-                    <label> NACIONALIDADE:</label>
-                    <input type="text">
-                    <label> PAÍS ORIGEM:</label>
-                    <input type="text">
-                    <br>
-                    <label> ESCOLARIDADE PÚBLICA:</label>
-                    <input type="text">
-                    <label> ESTADO CIVIL:</label>
-                    <input type="text">
-                </h1>
-            </tr>
+            <table>
+                
+                        <tr>
+                            <label> RM:</label>
+                            <input type="text">
+                            <label> NOME:</label>
+                            <input type="text" style="width: 300px;">
+                            <br>
+                            <br>
+                        </tr>
+                        
+                        <tr>
+                            <td>
+                                <label> DATA DE NASCIMENTO:</label>
+                            </td>
+                            <td>
+                                <input type="text">
+                            </td>
+                            <td>
+                                <fieldset style="border-color: aliceblue;">
+                                    <legend style="font-weight: bold">
+                                        EX: 00.000.000-0/UF
+                                    </legend>
+                                    <label style="color: red"> RG:</label>
+                                    <input type="text">
+                                    /
+                                    <select style="width: 40px;">
+                                        <option value="sp">Sao Paulo</option>
+                                        <option value="rj">Rio de Janeiro</option>
+                                        <option value="mg">Minas Gerais</option>
+                                        <option value="es">Espirito Santo</option>
+                                        <option value="pr">Parana</option>
+                                        <option value="sc">Santa Catarina</option>
+                                        <option value="rs">Rio Grande do Sul</option>
+                                        <option value="go">Goias</option>
+                                        <option value="mt">Mato Grosso</option>
+                                        <option value="ms">Mato Grosso do Sul</option>
+                                        <option value="df">Distrito Federal</option>
+                                        <option value="ma">Maranhao</option>
+                                        <option value="pi">Piaui</option>
+                                        <option value="ce">Ceara</option>
+                                        <option value="rn">Rio Grande do Norte</option>
+                                        <option value="pb">Paraiba</option>
+                                        <option value="pe">Pernambuco</option>
+                                        <option value="al">Alagoas</option>
+                                        <option value="se">Sergipe</option>
+                                        <option value="ba">Bahia</option>
+                                        <option value="ac">Acre</option>
+                                        <option value="ap">Amapa</option>
+                                        <option value="am">Amazonas</option>
+                                        <option value="pa">Para</option>
+                                        <option value="ro">Rondonia</option>
+                                        <option value="rr">Roraima</option>
+                                        <option value="to">Tocantins</option>
+                                    </select>
+                            </td>
         </fieldset>
-        <fieldset>
-            <legend style="font-weight: bold;">FILIAÇÃO</legend>
-            <tr>
-                <div style="font-size: 18   px;">
-                    <label> NOME DA MÃE:</label>
-                    <br>
-                    <label> NOME DO PAI:</label>
-                </h1>
-            </tr>
+        <td>
+            <fieldset style="border-color: aliceblue;">
+                <legend style="font-weight: bold">
+                    EX: 000000000-0/UF
+                </legend>
+                <label> RA:</label>
+                <input type="text">
+                /
+                <select style="width: 40px;">
+                    <option value="sp">Sao Paulo</option>
+                    <option value="rj">Rio de Janeiro</option>
+                    <option value="mg">Minas Gerais</option>
+                    <option value="es">Espirito Santo</option>
+                    <option value="pr">Parana</option>
+                    <option value="sc">Santa Catarina</option>
+                    <option value="rs">Rio Grande do Sul</option>
+                    <option value="go">Goias</option>
+                    <option value="mt">Mato Grosso</option>
+                    <option value="ms">Mato Grosso do Sul</option>
+                    <option value="df">Distrito Federal</option>
+                    <option value="ma">Maranhao</option>
+                    <option value="pi">Piaui</option>
+                    <option value="ce">Ceara</option>
+                    <option value="rn">Rio Grande do Norte</option>
+                    <option value="pb">Paraiba</option>
+                    <option value="pe">Pernambuco</option>
+                    <option value="al">Alagoas</option>
+                    <option value="se">Sergipe</option>
+                    <option value="ba">Bahia</option>
+                    <option value="ac">Acre</option>
+                    <option value="ap">Amapa</option>
+                    <option value="am">Amazonas</option>
+                    <option value="pa">Para</option>
+                    <option value="ro">Rondonia</option>
+                    <option value="rr">Roraima</option>
+                    <option value="to">Tocantins</option>
+                </select>
+        </td>
         </fieldset>
-        <fieldset>
-            <legend>ENDEREÇO E CONTATO</legend>
-            <tr>
-                <div style="font-size: 18   px;">
-                    <label> CEP:</label>
-                    <br>
-                    <label> ENDEREÇO:</label>
-                    <label> N°:</label>
-                    <br>
-                    <label> APTO:</label>
-                    <label> BLOCO:</label>
-                    <label> Distância até a Etec (KM):</label>
-                    <br>
-                    <label> BAIRRO:</label>
-                    <br>
-                    <label> CIDADE:</label>
-                    <legend style="font-weight: bold; text-align: center;;">
-                        Cadastrar Telefone e Celular com DDD
-                    </legend>
-                    <label> TELEFONE:</label>
-                    <label> CELULAR:</label>
-                    <br>
-                    <label> E-MAIL:</label>
+        </td>
+        <td>
+            <label>
+                RNE:
+            </label>
+            <input type="text">
+        </td>
+        <td>
+            <label>
+                CPF:
+            </label>
+            <input type="text">
+        </td>
+        </tr>
+        <tr>
+            <td>
+                <label>
+                    Afrodescendente:
+                </label>
+            <td>
+                <select>
+                    <option>Sim</option>
+                    <option>Não</option>
+                </select>
+            </td>
+            </td>
+            <td>
+                <label>
+                    Naturalidade:
+                </label>
+            <td>
+                <input type="text">
+            </td>
+            </td>
+            <td>
+                -
+            </td>
+            <td>
+                <select style="width: 40px;">
+                    <option value="sp">Sao Paulo</option>
+                    <option value="rj">Rio de Janeiro</option>
+                    <option value="mg">Minas Gerais</option>
+                    <option value="es">Espirito Santo</option>
+                    <option value="pr">Parana</option>
+                    <option value="sc">Santa Catarina</option>
+                    <option value="rs">Rio Grande do Sul</option>
+                    <option value="go">Goias</option>
+                    <option value="mt">Mato Grosso</option>
+                    <option value="ms">Mato Grosso do Sul</option>
+                    <option value="df">Distrito Federal</option>
+                    <option value="ma">Maranhao</option>
+                    <option value="pi">Piaui</option>
+                    <option value="ce">Ceara</option>
+                    <option value="rn">Rio Grande do Norte</option>
+                    <option value="pb">Paraiba</option>
+                    <option value="pe">Pernambuco</option>
+                    <option value="al">Alagoas</option>
+                    <option value="se">Sergipe</option>
+                    <option value="ba">Bahia</option>
+                    <option value="ac">Acre</option>
+                    <option value="ap">Amapa</option>
+                    <option value="am">Amazonas</option>
+                    <option value="pa">Para</option>
+                    <option value="ro">Rondonia</option>
+                    <option value="rr">Roraima</option>
+                    <option value="to">Tocantins</option>
+                </select>
+            </td>
+            <td>
+                <label>
+                    Nacionalidade:
+                </label>
+            </td>
+            <td>
+                <label>
+                    País Origem:
+                </label>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label>
+                    Escolaridade pública:
+                </label>
+            </td>
+            <td>
+                Estado cívil:
+            </td>
+        </tr>
+        </h1>
+        </table>
 
-                </h1>
-            </tr>
         </fieldset>
-    </form>
+        <fieldset STYLE="width: 50%">
+            <legend>FILIAÇÃO</legend>
+            <table>
+                <div style="font-size: 22  px;">
+                    <tr>
+                        <td>
+                            NOME DA MÃE:
+                        </td>
+                    </tr>
+                    <tr>
+                        NOME DO PAI:
+                    </tr>
+                    </h1>
+            </table>
+
+        </fieldset>
+        <fieldset STYLE="width: 50%">
+            <legend>ENDERECO E CONTATO</legend>
+            <table>
+                <div style="font-size: 22  px;">
+                    <tr>
+                        <td>
+                            CEP:
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            ENDEREÇO:
+                        </td>
+                        <td>
+                            N°:
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            APTO:
+                        </td>
+                        <td>
+                            BLOCO:
+                        </td>
+                        <td>
+                            Distância até a Etec (KM):
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            BAIRRO:
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            CIDADE:
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            Cadastrar Telefone e Celular com DDD
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            TEL.:
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            CELULAR:
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            E-MAIL:
+                        </td>
+                    </tr>
+                    </h1>
+            </table>
+        </fieldset>
+        <div>
+            <fieldset STYLE="width: 45%; position: absolute; right: 0px; top: 264px;">
+                <legend>ENDERECO E CONTATO</legend>
+                <table>
+                        <tr>
+                            <td>
+                                <label>
+                                    Informação sobre raça/cor, conforme Portaria INEP 156 de 20/10/2004:
+                                </label>
+                            </td>
+                            <td>
+                                <select>
+                                    <option>Preto</option>
+                                    <option>Branco</option>
+                                    <option>Amarelo</option>
+                                    <option>Pardo</option>
+                                    <option>Indígena</option>
+                                </select>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                Quantas pessoas compõe a família (incluindo o aluno)?
+                            </td>
+                            <td>
+                                <select>
+                                    <option>1 a 2</option>
+                                    <option>2 a 4</option>
+                                    <option>4 a 6</option>
+                                    <option>7 ou mais</option>
+                                </select>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                Quantas pessoas de sua família exercem atividade remunerada?
+                            </td>
+                            <td>
+                                <select>
+                                    <option>1 a 2</option>
+                                    <option>2 a 4</option>
+                                    <option>4 a 6</option>
+                                    <option>7 ou mais</option>
+                                </select>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                Qual a renda familiar (em salários mínimos)?
+                            </td>
+                            <td>
+                                <select>
+                                    <option>1 a 2</option>
+                                    <option>2 a 4</option>
+                                    <option>4 a 6</option>
+                                    <option>7 ou mais</option>
+                                </select>
+                            </td>
+                            <td>
+                                Possui irmão gêmeo?
+                            </td>
+                            <td>
+                                <input type="checkbox">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                Etnia:
+                            </td>
+                            <td>
+                                <input type="text">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                            <td>
+                                <input type="checkbox">
+                                Participa de programas sociais
+                            </td>
+                            </td>
+                            <td>
+                                <input type="checkbox">
+                                Possui algum Transtorno Global do Desenvolvimento ou Altas habilidades / Superdotação
+                            </td>
+                        </tr>
+                        </h1>
+                </table>
+            </fieldset>
+        </div>
+        <fieldset STYLE="width: 50%; position: absolute; top:625px">
+            <legend>ENSINO FUNDAMENTAL</legend>
+            <table>
+                <div style="font-size: 22  px;">
+                    <tr>
+                        <td>
+                            <label>
+                                CONCLUIU:
+                            </label>
+                            <select>
+                                <option>Sim</option>
+                                <option>Não</option>
+                            </select>
+                        </td>
+                        <td>
+                            <label>
+                                Escola:
+                            </label>
+                        </td>
+                        <td>
+                            <input type="text">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <label>
+                                Ano de conclusão:
+                            </label>
+                            <input type="text">
+                        </td>
+                        <td>
+                            <label>
+                                Cidade:
+                            </label>
+                        <td>
+                            <input type="text"> -
+                        </td>
+                        </td>
+                        <td>
+                            <select style="width: 50px;">
+                                <option value="sp">Sao Paulo</option>
+                                <option value="rj">Rio de Janeiro</option>
+                                <option value="mg">Minas Gerais</option>
+                                <option value="es">Espirito Santo</option>
+                                <option value="pr">Parana</option>
+                                <option value="sc">Santa Catarina</option>
+                                <option value="rs">Rio Grande do Sul</option>
+                                <option value="go">Goias</option>
+                                <option value="mt">Mato Grosso</option>
+                                <option value="ms">Mato Grosso do Sul</option>
+                                <option value="df">Distrito Federal</option>
+                                <option value="ma">Maranhao</option>
+                                <option value="pi">Piaui</option>
+                                <option value="ce">Ceara</option>
+                                <option value="rn">Rio Grande do Norte</option>
+                                <option value="pb">Paraiba</option>
+                                <option value="pe">Pernambuco</option>
+                                <option value="al">Alagoas</option>
+                                <option value="se">Sergipe</option>
+                                <option value="ba">Bahia</option>
+                                <option value="ac">Acre</option>
+                                <option value="ap">Amapa</option>
+                                <option value="am">Amazonas</option>
+                                <option value="pa">Para</option>
+                                <option value="ro">Rondonia</option>
+                                <option value="rr">Roraima</option>
+                                <option value="to">Tocantins</option>
+                            </select>
+                        </td>
+                    </tr>
+                    </h1>
+            </table>
+
+        </fieldset>
+        <div>
+            <fieldset STYLE="width: 45%; position: absolute; right: 0px; top: 625px;">
+                <legend>ENSINO MÉDIO</legend>
+                <table>
+                    <div style="font-size: 22  px;">
+                        <tr>
+                            <td>
+                                <label>
+                                    CONCLUIU:
+                                </label>
+                                <select>
+                                    <option>Sim</option>
+                                    <option>Não</option>
+                                </select>
+                            </td>
+                            <td>
+                                <label>
+                                    Escola:
+                                </label>
+                            </td>
+                            <td>
+                                <input type="text">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <label>
+                                    Ano de conclusão:
+                                </label>
+                                <input type="text">
+                            </td>
+                            <td>
+                                <label>
+                                    Cidade:
+                                </label>
+                            <td>
+                                <input type="text"> -
+                            </td>
+                            </td>
+                            <td>
+                                <select style="width: 50px;">
+                                    <option value="sp">Sao Paulo</option>
+                                    <option value="rj">Rio de Janeiro</option>
+                                    <option value="mg">Minas Gerais</option>
+                                    <option value="es">Espirito Santo</option>
+                                    <option value="pr">Parana</option>
+                                    <option value="sc">Santa Catarina</option>
+                                    <option value="rs">Rio Grande do Sul</option>
+                                    <option value="go">Goias</option>
+                                    <option value="mt">Mato Grosso</option>
+                                    <option value="ms">Mato Grosso do Sul</option>
+                                    <option value="df">Distrito Federal</option>
+                                    <option value="ma">Maranhao</option>
+                                    <option value="pi">Piaui</option>
+                                    <option value="ce">Ceara</option>
+                                    <option value="rn">Rio Grande do Norte</option>
+                                    <option value="pb">Paraiba</option>
+                                    <option value="pe">Pernambuco</option>
+                                    <option value="al">Alagoas</option>
+                                    <option value="se">Sergipe</option>
+                                    <option value="ba">Bahia</option>
+                                    <option value="ac">Acre</option>
+                                    <option value="ap">Amapa</option>
+                                    <option value="am">Amazonas</option>
+                                    <option value="pa">Para</option>
+                                    <option value="ro">Rondonia</option>
+                                    <option value="rr">Roraima</option>
+                                    <option value="to">Tocantins</option>
+                                </select>
+                            </td>
+                        </tr>
+                        </h1>
+                </table>
+
+            </fieldset>
+        </div>
 </body>
+
 </html>
