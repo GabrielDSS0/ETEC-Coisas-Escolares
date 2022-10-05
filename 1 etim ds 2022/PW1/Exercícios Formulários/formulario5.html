@@ -8,7 +8,17 @@
     <title>Matrícula</title>
 </head>
 
-<body>
+<style>
+    tr td {
+        float: left;
+        margin-right: 28px;
+    }
+    div {
+        line-height: 35px;
+    }
+</style>
+
+<body style="background-color: rgb(219, 233, 20);">
     <form method="post">
         <div style="font-size: 22px; font-weight: bold;">
         <fieldset>
@@ -16,17 +26,31 @@
             <table>
                 
                         <tr>
-                            <label> RM:</label>
-                            <input type="text">
-                            <label> NOME:</label>
-                            <input type="text" style="width: 300px;">
-                            <br>
-                            <br>
+                            <td>
+                                <label> RM:</label>
+                            </td>
+                            <td>
+                                <input type="text">
+                            </td>
+                            <td>
+                                <label style="color: red"> NOME:</label>
+                            </td>
+                            <td>
+                                <input type="text">
+                            </td>
+                            <td>
+                                <label style="color: red">
+                                    Sexo:
+                                </label>
+                            </td>
+                            <td>
+                                <input type="text" style="width: 300px;">
+                            </td>
                         </tr>
                         
                         <tr>
                             <td>
-                                <label> DATA DE NASCIMENTO:</label>
+                                <label style="color: red"> DATA DE NASCIMENTO:</label>
                             </td>
                             <td>
                                 <input type="text">
@@ -38,7 +62,7 @@
                                     </legend>
                                     <label style="color: red"> RG:</label>
                                     <input type="text">
-                                    /
+                                    <label style="color: red"> /</label>
                                     <select style="width: 40px;">
                                         <option value="sp">Sao Paulo</option>
                                         <option value="rj">Rio de Janeiro</option>
@@ -117,7 +141,7 @@
             <input type="text">
         </td>
         <td>
-            <label>
+            <label style="color: red">
                 CPF:
             </label>
             <input type="text">
@@ -125,7 +149,7 @@
         </tr>
         <tr>
             <td>
-                <label>
+                <label style="color: red">
                     Afrodescendente:
                 </label>
             <td>
@@ -136,7 +160,7 @@
             </td>
             </td>
             <td>
-                <label>
+                <label style="color: red">
                     Naturalidade:
                 </label>
             <td>
@@ -144,7 +168,9 @@
             </td>
             </td>
             <td>
-                -
+                <label style="color: red">
+                    -
+                </label>
             </td>
             <td>
                 <select style="width: 40px;">
@@ -178,24 +204,46 @@
                 </select>
             </td>
             <td>
-                <label>
+                <label style="color: red">
                     Nacionalidade:
                 </label>
             </td>
             <td>
-                <label>
+                <input type="text">
+            </td>
+            <td>
+                <label style="color: red">
                     País Origem:
                 </label>
+            </td>
+            <td>
+                <input type="text">
             </td>
         </tr>
         <tr>
             <td>
-                <label>
+                <label style="color: red">
                     Escolaridade pública:
                 </label>
             </td>
             <td>
-                Estado cívil:
+                <select>
+                    <option>Sim</option>
+                    <option>Não</option>
+                </select>
+            </td>
+            <td>
+                <label style="color: red">
+                    Estado civíl:
+                </label>
+            </td>
+            <td>
+                <select>
+                    <option>Solteiro</option>
+                    <option>Casado</option>
+                    <option>Viúvo</option>
+                    <option>Divorciado</option>
+                </select>
             </td>
         </tr>
         </h1>
@@ -203,15 +251,15 @@
 
         </fieldset>
         </div>
-        <fieldset style="display: flex;">
-        <div style="width: 500px">
+        <fieldset style="font-weight: bold; font-size: 20px">
+        <div style="width: 765px; float: left;">
         <fieldset>
             <legend>FILIAÇÃO</legend>
             <table>
                 <div style="font-size: 22px;">
                     <tr>
                         <td>
-                            <label>
+                            <label style="color: red">
                                 NOME DA MÃE:
                             </label>
                             <input type="text">
@@ -228,71 +276,140 @@
 
         </fieldset>
         </div>
-        <div style="float: left;">
-        <fieldset>
-            <legend>ENDERECO E CONTATO</legend>
+        <div style="clear: left; float: left;">
+        <fieldset style="width: 121%">
+            <legend>ENDEREÇO E CONTATO</legend>
             <table>
                 <div style="font-size: 22px;">
                     <tr>
                         <td>
-                            CEP:
+                            <label style="color: red">
+                                CEP:
+                            </label>
+                            <input type="text">
+                                <a href="https://buscacepinter.correios.com.br/app/endereco/index.php" target="blank">
+                                    <img src="https://cdn-icons-png.flaticon.com/512/64/64673.png" width="20">
+                                </a>
                         </td>
                     </tr>
                     <tr>
                         <td>
-                            ENDEREÇO:
+                            <label style="color: red">
+                                ENDEREÇO:
+                            </label>
+                            <input type="text">
                         </td>
                         <td>
-                            N°:
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            APTO:
-                        </td>
-                        <td>
-                            BLOCO:
-                        </td>
-                        <td>
-                            Distância até a Etec (KM):
+                            <label style="color: red">
+                                N°:
+                            </label>
+                            <input type="text">
                         </td>
                     </tr>
                     <tr>
                         <td>
-                            BAIRRO:
+                            <label>
+                                APTO:
+                            </label>
+                            <input type="text">
+                        </td>
+                        <td>
+                            <label>
+                                BLOCO:
+                            </label>
+                            <input type="text">
+                        </td>
+                    <tr>
+                        <td>
+                            <label>
+                                DISTÂNCIA ATÉ A ETEC (KM):
+                            </label>
+                            <input type="text">
+                        </td>
+                    </tr>
+                    </tr>
+                    <tr>
+                        <td>
+                            <label style="color: red">
+                                BAIRRO:
+                            </label>
+                            <input type="text">
                         </td>
                     </tr>
                     <tr>
                         <td>
-                            CIDADE:
+                            <label style="color: red">
+                                CIDADE:
+                            </label>
+                            <input type="text"> -
+                            <select style="width: 40px;">
+                                <option value="sp">Sao Paulo</option>
+                                <option value="rj">Rio de Janeiro</option>
+                                <option value="mg">Minas Gerais</option>
+                                <option value="es">Espirito Santo</option>
+                                <option value="pr">Parana</option>
+                                <option value="sc">Santa Catarina</option>
+                                <option value="rs">Rio Grande do Sul</option>
+                                <option value="go">Goias</option>
+                                <option value="mt">Mato Grosso</option>
+                                <option value="ms">Mato Grosso do Sul</option>
+                                <option value="df">Distrito Federal</option>
+                                <option value="ma">Maranhao</option>
+                                <option value="pi">Piaui</option>
+                                <option value="ce">Ceara</option>
+                                <option value="rn">Rio Grande do Norte</option>
+                                <option value="pb">Paraiba</option>
+                                <option value="pe">Pernambuco</option>
+                                <option value="al">Alagoas</option>
+                                <option value="se">Sergipe</option>
+                                <option value="ba">Bahia</option>
+                                <option value="ac">Acre</option>
+                                <option value="ap">Amapa</option>
+                                <option value="am">Amazonas</option>
+                                <option value="pa">Para</option>
+                                <option value="ro">Rondonia</option>
+                                <option value="rr">Roraima</option>
+                                <option value="to">Tocantins</option>
+                            </select>
                         </td>
                     </tr>
                     <tr>
                         <td>
-                            Cadastrar Telefone e Celular com DDD
+                            <label style="display: block; margin: 1.0em auto; margin-left: 50%; text-align: center;">
+                                Cadastrar telefone e celular com DDD
+                            </label>
                         </td>
                     </tr>
                     <tr>
                         <td>
-                            TEL.:
+                            <label>
+                                TEL.:
+                            </label>
+                            <input type="text">
                         </td>
                     </tr>
                     <tr>
                         <td>
-                            CELULAR:
+                            <label style="color: red">
+                                CELULAR:
+                            </label>
+                            <input type="text">
                         </td>
                     </tr>
                     <tr>
                         <td>
-                            E-MAIL:
+                            <label>
+                                E-MAIL:
+                            </label>
+                            <input type="text">
                         </td>
                     </tr>
                     </h1>
             </table>
         </fieldset>
         </div>
-        <div style="float: left;">
-            <fieldset>
+        <div>
+            <fieldset style="height: 442px">
                 <legend>INFORMAÇÕES SOCIOECONÔMICAS</legend>
                 <table>
                         <tr>
@@ -366,7 +483,6 @@
                         </tr>
                         <tr>
                             <td>
-                            <td>
                                 <input type="checkbox">
                                 Participa de programas sociais
                             </td>
@@ -380,13 +496,13 @@
                 </table>
             </fieldset>
         </div>
-        <div style="margin: auto;">
+        <div style="clear: left; flex: left;">
         <fieldset>
             <legend>ENSINO FUNDAMENTAL</legend>
             <table>
                     <tr>
                         <td>
-                            <label>
+                            <label style="color: red">
                                 CONCLUIU:
                             </label>
                             <select>
@@ -395,7 +511,7 @@
                             </select>
                         </td>
                         <td>
-                            <label>
+                            <label style="color: red">
                                 Escola:
                             </label>
                         </td>
@@ -405,13 +521,13 @@
                     </tr>
                     <tr>
                         <td>
-                            <label>
+                            <label style="color: red">
                                 Ano de conclusão:
                             </label>
                             <input type="text">
                         </td>
                         <td>
-                            <label>
+                            <label style="color: red">
                                 Cidade:
                             </label>
                         <td>
@@ -455,14 +571,14 @@
 
         </fieldset>
         </div>
-        <div style="margin: auto; ">
+        <div style="clear: left; flex: left;">
             <fieldset>
                 <legend>ENSINO MÉDIO</legend>
                 <table>
                     <div style="font-size: 22  px;">
                         <tr>
                             <td>
-                                <label>
+                                <label style="color: red">
                                     CONCLUIU:
                                 </label>
                                 <select>
@@ -471,7 +587,7 @@
                                 </select>
                             </td>
                             <td>
-                                <label>
+                                <label style="color: red">
                                     Escola:
                                 </label>
                             </td>
@@ -481,13 +597,13 @@
                         </tr>
                         <tr>
                             <td>
-                                <label>
+                                <label style="color: red">
                                     Ano de conclusão:
                                 </label>
                                 <input type="text">
                             </td>
                             <td>
-                                <label>
+                                <label style="color: red">
                                     Cidade:
                                 </label>
                             <td>
