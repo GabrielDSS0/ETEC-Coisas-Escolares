@@ -18,6 +18,11 @@ namespace operaçoes_basicas
             Console.WriteLine("Digite o segundo valor: ");
             n2 = int.Parse(Console.ReadLine());
 
+            if (n2 == 0) { Console.WriteLine("Impossivel divisao por zero");
+            Console.ReadLine();
+            }
+            else{
+
             soma = n1 + n2;
 
             Console.WriteLine("A soma é: " + soma);
@@ -29,6 +34,7 @@ namespace operaçoes_basicas
             Console.WriteLine("A sub é: " + sub);
 
             Console.ReadLine();
+                                   
 
             mult = n1 * n2;
 
@@ -42,5 +48,6 @@ namespace operaçoes_basicas
 
             Console.ReadLine();
         }
+    }
     }
 }

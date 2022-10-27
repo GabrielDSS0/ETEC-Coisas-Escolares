@@ -1,0 +1,6 @@
+D:\ETEC-Coisas-Escolares\1 etim ds 2022\Técnicas de Programação e Algoritmo\C#\C Sharp\Operações Básicas (Gabriel)\Operações Básicas (Gabriel)\bin\Debug\Operações Básicas (Gabriel).exe.config
+D:\ETEC-Coisas-Escolares\1 etim ds 2022\Técnicas de Programação e Algoritmo\C#\C Sharp\Operações Básicas (Gabriel)\Operações Básicas (Gabriel)\obj\Debug\Operações Básicas (Gabriel).csprojResolveAssemblyReference.cache
+D:\ETEC-Coisas-Escolares\1 etim ds 2022\Técnicas de Programação e Algoritmo\C#\C Sharp\Operações Básicas (Gabriel)\Operações Básicas (Gabriel)\bin\Debug\Operações Básicas (Gabriel).exe
+D:\ETEC-Coisas-Escolares\1 etim ds 2022\Técnicas de Programação e Algoritmo\C#\C Sharp\Operações Básicas (Gabriel)\Operações Básicas (Gabriel)\bin\Debug\Operações Básicas (Gabriel).pdb
+D:\ETEC-Coisas-Escolares\1 etim ds 2022\Técnicas de Programação e Algoritmo\C#\C Sharp\Operações Básicas (Gabriel)\Operações Básicas (Gabriel)\obj\Debug\Operações Básicas (Gabriel).exe
+D:\ETEC-Coisas-Escolares\1 etim ds 2022\Técnicas de Programação e Algoritmo\C#\C Sharp\Operações Básicas (Gabriel)\Operações Básicas (Gabriel)\obj\Debug\Operações Básicas (Gabriel).pdb
