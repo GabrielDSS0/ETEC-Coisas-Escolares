@@ -10,38 +10,49 @@ namespace ConversorRomano
     {
         static void Main(string[] args)
         {
-            int numeroDecimal;
-            string numeroDecimalStr;
+            string numeroDecimal;
 
-            Console.WriteLine("Digite um número inteiro:");
-            numeroDecimalStr = Console.ReadLine();
-            numeroDecimal = int.Parse(numeroDecimalStr);
+            Console.WriteLine("Digite um número inteiro de 0 a 9999:");
+            numeroDecimal = Console.ReadLine();
 
             string[] unidades = new string[] {"", "I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX"};
             string[] dezenas = new string[] {"", "X", "XX", "XXX", "XL", "L", "LX", "LXX", "LXXX", "XC"};
             string[] centenas = new string[] {"", "C", "CC", "CCC", "CD", "D", "DC", "DCC", "DCCC", "CM"};
             string[] milhares = new string[] {"", "M", "MM", "MMM", "MMMM", "V", "VI", "VII", "VIII", "IX"};
 
-            char unidade, dezena, centena, milhar;
-            string u, d, c, m;
+            string unidade, dezena, centena, milhar;
 
-            if (numeroDecimalStr.Length >= 1) {
-                unidade = numeroDecimalStr[-1];
-                u = numeroDecimalStr
-            }
-            if (numeroDecimalStr.Length >= 2)
+            unidade = "";
+            dezena = "";
+            centena = "";
+            milhar = "";
+ 
+            if (numeroDecimal.Length >= 1) 
             {
-                dezena = numeroDecimalStr[-2];
-                d = dezenas[dezena];
+                char number = numeroDecimal[numeroDecimal.Length - 1];
+                int numberInt = int.Parse(Convert.ToString(number));
+                unidade = unidades[numberInt];
             }
             if (numeroDecimal.Length >= 2)
             {
-                dezena = numeroDecimal[-3];
+                char number = numeroDecimal[numeroDecimal.Length - 2];
+                int numberInt = int.Parse(Convert.ToString(number));
+                dezena = dezenas[numberInt];
             }
-            if (numeroDecimal.Length >= 2)
+            if (numeroDecimal.Length >= 3)
             {
-                dezena = numeroDecimal[-4];
+                char number = numeroDecimal[numeroDecimal.Length - 3];
+                int numberInt = int.Parse(Convert.ToString(number));
+                centena = centenas[numberInt];
             }
+            if (numeroDecimal.Length >= 4)
+            {
+                char number = numeroDecimal[numeroDecimal.Length - 4];
+                int numberInt = int.Parse(Convert.ToString(number));
+                milhar = milhares[numberInt];
+            }
+
+            Console.WriteLine("O número digitado, em algarismos romanos, é: " + milhar + centena + dezena + unidade);
         }
     }
 }
