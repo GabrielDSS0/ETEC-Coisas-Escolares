@@ -15,6 +15,28 @@ namespace ConversorRomano
             Console.WriteLine("Digite um número inteiro de 0 a 9999:");
             numeroDecimal = Console.ReadLine();
 
+            try
+            {
+                int.Parse(numeroDecimal);
+            }
+            catch
+            {
+                Console.WriteLine("Você não digitou um número conversível.");
+                return;
+            }
+
+            if (numeroDecimal.Length > 4)
+            {
+                Console.WriteLine("Número de dígitos não aceito.");
+                return;
+            }
+
+            if (int.Parse(numeroDecimal) < 0)
+            {
+                Console.WriteLine("Valores negativos não são aceitos.");
+                return;
+            }
+
             string[] unidades = new string[] {"", "I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX"};
             string[] dezenas = new string[] {"", "X", "XX", "XXX", "XL", "L", "LX", "LXX", "LXXX", "XC"};
             string[] centenas = new string[] {"", "C", "CC", "CCC", "CD", "D", "DC", "DCC", "DCCC", "CM"};
@@ -26,7 +48,9 @@ namespace ConversorRomano
             dezena = "";
             centena = "";
             milhar = "";
+
  
+
             if (numeroDecimal.Length >= 1) 
             {
                 char number = numeroDecimal[numeroDecimal.Length - 1];
@@ -51,6 +75,7 @@ namespace ConversorRomano
                 int numberInt = int.Parse(Convert.ToString(number));
                 milhar = milhares[numberInt];
             }
+
 
             Console.WriteLine("O número digitado, em algarismos romanos, é: " + milhar + centena + dezena + unidade);
         }
