@@ -1,0 +1,48 @@
+Introdução 
+
+
+Polaridade
+A polaridade  de uma molécula está relacionada à distribuição dos elétrons ao redor dos átomos. Se essa distribuição for simétrica, a molécula será apolar, mas se for assimétrica, sendo que uma das partes da molécula possui maior densidade eletrônica, então se trata de uma molécula polar.
+Se as moléculas se orientarem na presença desse campo, ou seja, se uma parte for atraída pelo polo positivo e a outra parte da molécula for atraída pelo polo negativo, então, elas são polares. Do contrário, se elas não se orientarem, elas são apolares.
+
+Forças Intermoleculares
+
+Forças intermoleculares são as formas como as moléculas dos compostos (polares ou apolares) formados por ligações covalentes interagem ente si. 
+
+Perceber a existência das diferentes forças intermoleculares (interações) é simples, já que na natureza podemos encontrar uma mesma matéria em diferentes estados físicos. 
+
+Tipos de forças intermoleculares:
+
+As três forças intermoleculares existentes são: força de dipolo permanente, força de dipolo induzido e ligação de hidrogênio.
+
+A ligação de hidrogênio é a força intermolecular mais intensa e é uma atração que ocorre entre o hidrogênio e átomos de flúor, oxigênio e nitrogênio.
+
+As interações dipolo-dipolo ou interações entre dipolos permanentes são forças atrativas que ocorrem entre moléculas polares.
+
+As forças dipolo induzido-dipolo induzido são as de mais fraca intensidade e ocorrem entre moléculas apolares, entre átomos de gases nobres ou entre moléculas polares e apolares. Essa força ocorre por uma deformação momentânea na nuvem eletrônica da molécula.
+
+Objetivo 
+
+Objetivo: Observar e analisar a interação que ocorre entre as moléculas em razão de suas respectivas polaridades.
+
+Materiais e reagentes: Uma Placa de Petri, Um copo de plástico contendo leite, 2 potes de corantes (sendo um rosa e um laranja), uma garrafa plástica contendo corante azul, um detergente em embalagem plástica, um conta-gotas
+
+Procedimento Experimental:
+
+Procedimento experimental: Colocou-se 5ml de leite (provindo do copo de plástico) no interior da Placa de Petri. Após isso, com o conta-gotas, pegou-se um pouco do líquido do corante rosa, contido dentro do pote. Despejou-se, então, 3 gotas de corante rosa dentro da Placa de Petri. Com o conta-gotas, novamente, pegou-se um pouco do corante laranja, também contido em um pote, e foi-se despejado 2 gotas dentro da Placa de Petri, de forma que não ficasse homogênea com o corante previamente aplicado. Repetindo o mesmo processo com o conta-gotas, agora com o corante azul, contido dentro da garrafa plástica, despejou-se também 2 gotas do corante dentro da Placa de Petri, com o mesmo sentido de não misturar as cores previamente aplicadas na Placa.
+Por fim, aplicou-se uma gota de detergente em cada cor presente no líquido de leite.
+
+Resultados e discussões:
+
+Após a aplicação das gotas de detergentes nos respectivos corantes contidos no leite dentro da Placa de Petri, percebeu-se que tais corantes dispersaram-se e acabaram por misturar-se.
+Este efeito ocorre pois o leite, vendido em mercados, contêm, em sua estrutura, gordura. Em condições normais, o leite líquido se misturaria e se homogenizaria com o corante. No entanto, com a presença de gordura, isso muda; esta faz com que seja criada uma tensão superficial que impede que o corante entre em contato direto com o líquido. Com a adição de detergente, que possui partes apolares e polares, há a quebra desta tensão superficial, visto que o detergente é um agente tensoativo por natureza. Em resumo, o detergente pode interagir com lípidios (substâncias apolares) e com substâncias líquidas, como a água (substâncias polares). Assim, o corante pôde se misturar com o leite de forma natural.
+
+Conclusão:
+
+Conclui-se então que, o leite, que tem uma superfície apolar, pois é composta por gordura, somado com os corantes, que são polares, resultam numa não-mistura. No entanto, o detergente consegue agir em ambas as substâncias, com isso ele rompe a tensão superficial, causando uma interação entre os 3, onde só acontece por conta do detergente que quebra essa barreira entre a gordura do leite e do corante, nos mostrando um efeito desse rompimento.
+Em resumo, substâncias polares tendem a não se misturarem com substâncias apolares a não ser que um agente tensoativo entre em contato com ambos.
+
+https://m.manualdaquimica.com/quimica-geral/tipos-forcas-intermoleculares.htm
+https://educador.brasilescola.uol.com.br/estrategias-ensino/experimento-leite-psicodelico.htm
+https://brasilescola.uol.com.br/o-que-e/quimica/o-que-sao-forcas-intermoleculares.htm
+http://www.periodicos.ufc.br/eu/article/view/16716
