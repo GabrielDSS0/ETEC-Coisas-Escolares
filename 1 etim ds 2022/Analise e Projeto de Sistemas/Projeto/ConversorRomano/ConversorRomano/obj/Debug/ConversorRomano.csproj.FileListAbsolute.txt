@@ -15,3 +15,9 @@ C:\Users\Gatch\ETEC-Coisas-Escolares\1 etim ds 2022\Analise e Projeto de Sistema
 C:\Users\Gatch\ETEC-Coisas-Escolares\1 etim ds 2022\Analise e Projeto de Sistemas\Projeto\ConversorRomano\ConversorRomano\obj\Debug\ConversorRomano.csproj.CoreCompileInputs.cache
 C:\Users\Gatch\ETEC-Coisas-Escolares\1 etim ds 2022\Analise e Projeto de Sistemas\Projeto\ConversorRomano\ConversorRomano\obj\Debug\ConversorRomano.exe
 C:\Users\Gatch\ETEC-Coisas-Escolares\1 etim ds 2022\Analise e Projeto de Sistemas\Projeto\ConversorRomano\ConversorRomano\obj\Debug\ConversorRomano.pdb
+D:\ETEC-Coisas-Escolares\1 etim ds 2022\Analise e Projeto de Sistemas\Projeto\ConversorRomano\ConversorRomano\bin\Debug\ConversorRomano.exe.config
+D:\ETEC-Coisas-Escolares\1 etim ds 2022\Analise e Projeto de Sistemas\Projeto\ConversorRomano\ConversorRomano\obj\Debug\ConversorRomano.exe
+D:\ETEC-Coisas-Escolares\1 etim ds 2022\Analise e Projeto de Sistemas\Projeto\ConversorRomano\ConversorRomano\obj\Debug\ConversorRomano.pdb
+D:\ETEC-Coisas-Escolares\1 etim ds 2022\Analise e Projeto de Sistemas\Projeto\ConversorRomano\ConversorRomano\bin\Debug\ConversorRomano.exe
+D:\ETEC-Coisas-Escolares\1 etim ds 2022\Analise e Projeto de Sistemas\Projeto\ConversorRomano\ConversorRomano\bin\Debug\ConversorRomano.pdb
+D:\ETEC-Coisas-Escolares\1 etim ds 2022\Analise e Projeto de Sistemas\Projeto\ConversorRomano\ConversorRomano\obj\Debug\ConversorRomano.csprojResolveAssemblyReference.cache

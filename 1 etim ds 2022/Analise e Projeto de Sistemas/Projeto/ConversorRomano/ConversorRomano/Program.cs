@@ -78,6 +78,7 @@ namespace ConversorRomano
 
 
             Console.WriteLine("O número digitado, em algarismos romanos, é: " + milhar + centena + dezena + unidade);
+            Console.Read();
         }
     }
 }
