@@ -1,0 +1,29 @@
+Conceitos:
+
+https://conceptfirst.com.sg/physics-in-transportation/#:~:text=Cars%20rely%20on%20the%20laws,the%20direction%20of%20the%20car.
+https://www.bibalex.org/SCIplanet/en/Article/Details?id=13706#:~:text=There%20are%20two%20forces%20acting,the%20net%20force%20equals%20zero.
+https://www.shippingandfreightresource.com/shipping-and-physics/
+https://www.youtube.com/watch?v=wqC8xa2-Roo
+https://youtu.be/hk9Oy3rXNno
+https://www.shippingandfreightresource.com/shipping-and-physics/
+
+O estudo da física é essencial para que se entenda alguns processos dos meios de transporte (carros, aviões, navios) e suas utilidades, como a condução de pessoas ou de carga.
+O atrito, o arrasto, a gravidade, as leis de Newton, as forças sobre objetos: todos estes conceitos se aplicam diariamente nos meios de transportes, no trânsito, na aviação, etc.
+
+Na condução de pessoas por carro, por exemplo, é essencial que todos estejam de cinto de segurança. Apesar desta ideia ser praticamente axiomática, existe uma explicação física por trás disso: Segundo a primeira lei de Newton, que descreve a inércia, se um carro a 60km/h frear e o indivíduo que está dirigindo não estiver com o cinto de segurança, o indivíduo será jogado à aproximadamente 60km/h para fora do carro, se machucando gravemente. Com o cinto de segurança, o indivíduo, mesmo que se mova inicialmente à 60km/h, será parado rapidamente pelo cinto que o segura.
+
+Outra aplicação da física no carro é a força de atrito. Basicamente, o contato da roda com o solo, quando o carro está em movimento, gera 'força de atrito'. Essa força de atrito, por sua vez, é uma resistência, que faz com que o contato das duas superfícies (roda e o solo) seja mais "difícil". Ou seja, a roda do carro não irá passar tão facilmente (deslizando) sobre o chão. Sem o atrito, ele teria sérias dificuldades de frear, por exemplo, visto que não haveria resistência que parasse o carro.
+
+Outra coisa importante que a física nos proporciona é o cálculo do tempo que levará para sair de um lugar X para um lugar Y, baseado na velocidade média do veículo e da distância do trajeto. Inclusive, existem tecnologias (como uma das que apresentaremos nos próximos slides) que fazem justamente este cálculo!
+
+Em navios, existem outros conceitos físicos, que explicam como que um navio cargueiro, por exemplo, consegue flutuar na água, mesmo tendo um peso gigantesco. Resumidamente, quatro coisas explicam este fenômeno: gravidade, deslocamento, flutuação e densidade.
+
+A gravidade é a força que puxa o navio para baixo. Entretanto, a flutuação do navio, a força que o empurra para cima, é influenciada pela densidade. A densidade do navio (densidade = massa / volume) é calculada para que seja igual ou levemente menor do que a densidade da água. Sendo assim, a força de flutuação (empuxo) do navio consegue aniquilar a gravidade exercida.
+
+E onde que entra o deslocamento nisso tudo? "A razão pela qual um navio flutua é que ele desloca muita água. A água deslocada quer voltar para sua localização original, onde o navio está agora, e isso empurra o navio para cima. A força que empurra a nave para cima é chamada de força de flutuação.". Isso é o diz o princípio de Arquimedes.
+
+Basicamente, a ideia é de que, se a quantidade de água deslocada quando o navio se move pelo oceano, a tendência é que o navio flutue, visto que essa quantidade de água quer "retornar" ao seu espaço original, roubado pelo navio. O navio então acaba sendo empuxado pela própria água.
+
+Em outros conceitos existem em outros tipos de transportes também: no avião, por exemplo, é essencial entender como que as asas dele são um componente indispensável para a elevação do avião: segundo o princípio de Bernoulli, o ar que bate na asa do avião se divide, onde uma parte do ar fica em baixo, e a outra parte fica em cima. O ar que está em baixo tem uma velocidade menor, portanto, segundo Bernoulli, tem uma pressão maior. Essa pressão maior faz com que a asa do avião nunca sempre se mantenha em direção alta, que faz com que o avião se eleve.
+
+Outros conceitos também tentam demonstrar os cálculos por trás de um avião: aerodinâmica (mecânica do fluído do ar com outros objetos), arrasto (resistência para movimentos), gravidade, peso, impulso, etc.

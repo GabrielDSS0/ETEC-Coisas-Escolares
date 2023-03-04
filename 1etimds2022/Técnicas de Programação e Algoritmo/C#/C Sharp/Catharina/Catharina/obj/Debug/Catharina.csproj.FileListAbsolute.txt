@@ -1,0 +1,6 @@
+D:\ETEC-Coisas-Escolares\1 etim ds 2022\Técnicas de Programação e Algoritmo\C#\C Sharp\Catharina\Catharina\bin\Debug\Catharina.exe.config
+D:\ETEC-Coisas-Escolares\1 etim ds 2022\Técnicas de Programação e Algoritmo\C#\C Sharp\Catharina\Catharina\obj\Debug\Catharina.csprojResolveAssemblyReference.cache
+D:\ETEC-Coisas-Escolares\1 etim ds 2022\Técnicas de Programação e Algoritmo\C#\C Sharp\Catharina\Catharina\bin\Debug\Catharina.exe
+D:\ETEC-Coisas-Escolares\1 etim ds 2022\Técnicas de Programação e Algoritmo\C#\C Sharp\Catharina\Catharina\bin\Debug\Catharina.pdb
+D:\ETEC-Coisas-Escolares\1 etim ds 2022\Técnicas de Programação e Algoritmo\C#\C Sharp\Catharina\Catharina\obj\Debug\Catharina.exe
+D:\ETEC-Coisas-Escolares\1 etim ds 2022\Técnicas de Programação e Algoritmo\C#\C Sharp\Catharina\Catharina\obj\Debug\Catharina.pdb

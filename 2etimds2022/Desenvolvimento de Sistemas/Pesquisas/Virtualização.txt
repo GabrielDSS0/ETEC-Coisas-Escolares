@@ -1,0 +1,8 @@
+Virtualização
+
+Virtualização é o ato de simular um sistema real utilizando configurações advindas de uma máquina externa, utilizando parte de suas configurações. O software que recebe as configurações e fazer a simulação é chamado de máquina virtual, e o software que cede suas configurações é chamado de máquina host.
+
+A virtualiazação funciona através de um compartilhamento de memória, configurações e armazenamento, para uma máquina virtual que receberá estas configurações e simulará o funcionamento de um computador real, podendo servir para testes que não poderiam ser realizadas numa máquina física real, devido a possíveis riscos.
+
+As vantagens da virtualização são: o uso mais "abusado" do sistema operacional devido ao menor risco de danos à máquina física, e somente causando problemas na máquina virtual, possibilitando uma maior exploração do usuário para testes. Outra vantagem é o possível teste de softwares usando um ambiente com menor configuração, sendo útil para programadores testarem as configurações mínimas e otimizarem seus programas. O uso de diversos sistemas operacionais ao mesmo tempo também é outra vantagem, com o usuário podendo alternar entre sistemas através da virtualização.
+Entre as desvantagens, as máquinas virtuais têm algumas limitações em relação à rede, na qual algumas funcionalidades necessitam de conexão com a rede, o que acaba prejudicando a segurança virtual. Outra desvantagem é sua limitação em relação à configurações, que necessitam de bons computadores hosting para uma montagem de uma boa máquina virtual. E, por fim, as máquinas virtuais, em geral, são limitadas em relação ao sistema operacional utilizado, não tendo uma quantidade tão robusta de sistemas operacionais recentes e atualizados em seu conjunto.

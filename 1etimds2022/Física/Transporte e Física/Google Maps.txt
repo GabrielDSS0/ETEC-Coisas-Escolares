@@ -1,0 +1,12 @@
+https://www.quora.com/Speed-Limits/How-does-Google-Maps-calculate-your-ETA
+
+O Google Maps é uma ferramenta produzida pela Google, que tem o intuito de mostrar cidades, países, estados, rotas, estabelecimentos, lugares, etc.
+Uma das ferramentas que nos interessa aqui é o cálculo de tempo de deslocamento de uma cidade para outra.
+
+De acordo com o Richard Russell, funcionário da Google e cientista de dados, o Google Maps baseia seus dados de mapeamento e cálculo de tempo de viagem em diversos fatores, como: tipos de estradas, horários de pico de movimento, velocidade média de um carro, históricos anteriores de usuários que trafegaram pelas pistas, etc. Por ser uma tarefa muito difícil e imprecisa de se realizar, a Google se preocupou em tentar variar da melhor possível o seu cálculo de tempo de viagem.
+
+O código fonte do Google Maps não é aberto, portanto não é possível ver todo o procedimento proposto por trás das cortinas. Mesmo assim, tentaremos fazer um experimento baseado apenas em variação de espaço, variação de tempo e velocidade, e tentaremos ver nossa precisão usando o Google Maps.
+
+Segundo o Google Maps, a distância de Olímpia para Baguaçu é de 22.7km (DELTA S). Também segundo o Google Maps, o tempo de viagem de Olímpia para Baguaçu é de 24 minutos (DELTA T), de carro. Transformando 24 minutos em horas, obtemos 0.4 horas, aproximadamente. 24 dividido por 0.4 dá o resultado de 56.75km/h (velocidade), de carro.
+
+Agora, tentando calcular o tempo de viagem de Olímpia para Altair de carro: O nosso DELTA S equivale a 36.5km. A nossa velocidade, de carro, como vimos, dá 56.75km/h. Calculando 36.5/56.75, temos o resultado de 0.64 horas, ou 38 minutos. Segundo o Google Maps, temos 34 minutos à carro de Olímpia para Altair. Ou seja, usando apenas o princípio de velocidade média, obtemos um resultado muito próximo ao do Google Maps.

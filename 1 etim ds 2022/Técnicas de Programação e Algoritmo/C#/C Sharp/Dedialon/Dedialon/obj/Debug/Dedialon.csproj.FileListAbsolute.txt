@@ -1,6 +1,0 @@
-D:\ETEC-Coisas-Escolares\1 etim ds 2022\Técnicas de Programação e Algoritmo\C#\C Sharp\Dedialon\Dedialon\bin\Debug\Dedialon.exe.config
-D:\ETEC-Coisas-Escolares\1 etim ds 2022\Técnicas de Programação e Algoritmo\C#\C Sharp\Dedialon\Dedialon\bin\Debug\Dedialon.exe
-D:\ETEC-Coisas-Escolares\1 etim ds 2022\Técnicas de Programação e Algoritmo\C#\C Sharp\Dedialon\Dedialon\bin\Debug\Dedialon.pdb
-D:\ETEC-Coisas-Escolares\1 etim ds 2022\Técnicas de Programação e Algoritmo\C#\C Sharp\Dedialon\Dedialon\obj\Debug\Dedialon.csprojResolveAssemblyReference.cache
-D:\ETEC-Coisas-Escolares\1 etim ds 2022\Técnicas de Programação e Algoritmo\C#\C Sharp\Dedialon\Dedialon\obj\Debug\Dedialon.exe
-D:\ETEC-Coisas-Escolares\1 etim ds 2022\Técnicas de Programação e Algoritmo\C#\C Sharp\Dedialon\Dedialon\obj\Debug\Dedialon.pdb

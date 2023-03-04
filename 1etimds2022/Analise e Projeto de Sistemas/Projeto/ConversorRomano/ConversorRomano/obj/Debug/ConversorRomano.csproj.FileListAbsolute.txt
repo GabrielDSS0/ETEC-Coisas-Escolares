@@ -1,0 +1,23 @@
+D:\ETEC-Coisas-Escolares\1 etim ds 2022\Técnicas de Programação e Algoritmo\C#\C Sharp\ConversorRomano\ConversorRomano\bin\Debug\ConversorRomano.exe.config
+C:\Users\Gatch\ETEC-Coisas-Escolares\1 etim ds 2022\Técnicas de Programação e Algoritmo\C#\C Sharp\ConversorRomano\ConversorRomano\obj\Debug\ConversorRomano.csproj.AssemblyReference.cache
+C:\Users\Gatch\ETEC-Coisas-Escolares\1 etim ds 2022\Técnicas de Programação e Algoritmo\C#\C Sharp\ConversorRomano\ConversorRomano\obj\Debug\ConversorRomano.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gatch\ETEC-Coisas-Escolares\1 etim ds 2022\Técnicas de Programação e Algoritmo\C#\C Sharp\ConversorRomano\ConversorRomano\obj\Debug\ConversorRomano.csproj.CoreCompileInputs.cache
+C:\Users\Gatch\ETEC-Coisas-Escolares\1 etim ds 2022\Técnicas de Programação e Algoritmo\C#\C Sharp\ConversorRomano\ConversorRomano\bin\Debug\ConversorRomano.exe.config
+C:\Users\Gatch\ETEC-Coisas-Escolares\1 etim ds 2022\Técnicas de Programação e Algoritmo\C#\C Sharp\ConversorRomano\ConversorRomano\bin\Debug\ConversorRomano.exe
+C:\Users\Gatch\ETEC-Coisas-Escolares\1 etim ds 2022\Técnicas de Programação e Algoritmo\C#\C Sharp\ConversorRomano\ConversorRomano\bin\Debug\ConversorRomano.pdb
+C:\Users\Gatch\ETEC-Coisas-Escolares\1 etim ds 2022\Técnicas de Programação e Algoritmo\C#\C Sharp\ConversorRomano\ConversorRomano\obj\Debug\ConversorRomano.exe
+C:\Users\Gatch\ETEC-Coisas-Escolares\1 etim ds 2022\Técnicas de Programação e Algoritmo\C#\C Sharp\ConversorRomano\ConversorRomano\obj\Debug\ConversorRomano.pdb
+C:\Users\Gatch\ETEC-Coisas-Escolares\1 etim ds 2022\Analise e Projeto de Sistemas\Projeto\ConversorRomano\ConversorRomano\bin\Debug\ConversorRomano.exe.config
+C:\Users\Gatch\ETEC-Coisas-Escolares\1 etim ds 2022\Analise e Projeto de Sistemas\Projeto\ConversorRomano\ConversorRomano\bin\Debug\ConversorRomano.exe
+C:\Users\Gatch\ETEC-Coisas-Escolares\1 etim ds 2022\Analise e Projeto de Sistemas\Projeto\ConversorRomano\ConversorRomano\bin\Debug\ConversorRomano.pdb
+C:\Users\Gatch\ETEC-Coisas-Escolares\1 etim ds 2022\Analise e Projeto de Sistemas\Projeto\ConversorRomano\ConversorRomano\obj\Debug\ConversorRomano.csproj.AssemblyReference.cache
+C:\Users\Gatch\ETEC-Coisas-Escolares\1 etim ds 2022\Analise e Projeto de Sistemas\Projeto\ConversorRomano\ConversorRomano\obj\Debug\ConversorRomano.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gatch\ETEC-Coisas-Escolares\1 etim ds 2022\Analise e Projeto de Sistemas\Projeto\ConversorRomano\ConversorRomano\obj\Debug\ConversorRomano.csproj.CoreCompileInputs.cache
+C:\Users\Gatch\ETEC-Coisas-Escolares\1 etim ds 2022\Analise e Projeto de Sistemas\Projeto\ConversorRomano\ConversorRomano\obj\Debug\ConversorRomano.exe
+C:\Users\Gatch\ETEC-Coisas-Escolares\1 etim ds 2022\Analise e Projeto de Sistemas\Projeto\ConversorRomano\ConversorRomano\obj\Debug\ConversorRomano.pdb
+D:\ETEC-Coisas-Escolares\1 etim ds 2022\Analise e Projeto de Sistemas\Projeto\ConversorRomano\ConversorRomano\bin\Debug\ConversorRomano.exe.config
+D:\ETEC-Coisas-Escolares\1 etim ds 2022\Analise e Projeto de Sistemas\Projeto\ConversorRomano\ConversorRomano\obj\Debug\ConversorRomano.exe
+D:\ETEC-Coisas-Escolares\1 etim ds 2022\Analise e Projeto de Sistemas\Projeto\ConversorRomano\ConversorRomano\obj\Debug\ConversorRomano.pdb
+D:\ETEC-Coisas-Escolares\1 etim ds 2022\Analise e Projeto de Sistemas\Projeto\ConversorRomano\ConversorRomano\bin\Debug\ConversorRomano.exe
+D:\ETEC-Coisas-Escolares\1 etim ds 2022\Analise e Projeto de Sistemas\Projeto\ConversorRomano\ConversorRomano\bin\Debug\ConversorRomano.pdb
+D:\ETEC-Coisas-Escolares\1 etim ds 2022\Analise e Projeto de Sistemas\Projeto\ConversorRomano\ConversorRomano\obj\Debug\ConversorRomano.csprojResolveAssemblyReference.cache

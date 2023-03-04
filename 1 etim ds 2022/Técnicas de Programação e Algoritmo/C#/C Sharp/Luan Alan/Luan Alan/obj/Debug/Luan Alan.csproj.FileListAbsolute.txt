@@ -1,6 +1,0 @@
-D:\ETEC-Coisas-Escolares\1 etim ds 2022\Técnicas de Programação e Algoritmo\C#\C Sharp\Luan Alan\Luan Alan\bin\Debug\Luan Alan.exe.config
-D:\ETEC-Coisas-Escolares\1 etim ds 2022\Técnicas de Programação e Algoritmo\C#\C Sharp\Luan Alan\Luan Alan\obj\Debug\Luan Alan.csprojResolveAssemblyReference.cache
-D:\ETEC-Coisas-Escolares\1 etim ds 2022\Técnicas de Programação e Algoritmo\C#\C Sharp\Luan Alan\Luan Alan\bin\Debug\Luan Alan.exe
-D:\ETEC-Coisas-Escolares\1 etim ds 2022\Técnicas de Programação e Algoritmo\C#\C Sharp\Luan Alan\Luan Alan\bin\Debug\Luan Alan.pdb
-D:\ETEC-Coisas-Escolares\1 etim ds 2022\Técnicas de Programação e Algoritmo\C#\C Sharp\Luan Alan\Luan Alan\obj\Debug\Luan Alan.exe
-D:\ETEC-Coisas-Escolares\1 etim ds 2022\Técnicas de Programação e Algoritmo\C#\C Sharp\Luan Alan\Luan Alan\obj\Debug\Luan Alan.pdb

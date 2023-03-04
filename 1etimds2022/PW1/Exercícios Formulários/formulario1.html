@@ -1,0 +1,84 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Exercicio - Formulario </title>
+</head>
+<body>
+<form action="teste.html" method="get">
+<input type="hidden" name="hash" value="4w587nt3" />
+<div>
+<label for="nome">Nome: </label>
+<input type="text" id="nome" name="nome" />
+</div>
+<div>
+<label for="sobrenome"> Sobrenome: </label>
+<input type="text" id="sobrenome" name="sobrenome" />
+</div>
+<div>
+<label for="senha"> Senha: </label>
+<input type="passaword" id="senha" name="senha" />
+</div>
+<div>
+<label for="foto"> Escolha uma foto: </label>
+<input type="file" id="foto" name="foto" />
+</div>
+<div>
+Sexo:
+<input type="radio" name="sexo" id="sexo-m" />
+<label for="sexo-m">Masculino</label>
+<input type="radio" name="sexo" id="sexo-f" />
+<label for="sexo-f">feminino</label>
+</div>
+<div>
+<label forn="estado">Selecione um Estado:</label>
+<select id="estado" name="estado">
+<option value="sp">Sao Paulo</option>
+<option value="rj">Rio de Janeiro</option>
+<option value="mg">Minas Gerais</option>
+<option value="es">Espirito Santo</option>
+<option value="pr">Parana</option>
+<option value="sc">Santa Catarina</option>
+<option value="rs">Rio Grande do Sul</option>
+<option value="go">Goias</option>
+<option value="mt">Mato Grosso</option>
+<option value="ms">Mato Grosso do Sul</option>
+<option value="df">Distrito Federal</option>
+<option value="ma">Maranhao</option>
+<option value="pi">Piaui</option>
+<option value="ce">Ceara</option>
+<option value="rn">Rio Grande do Norte</option>
+<option value="pb">Paraiba</option>
+<option value="pe">Pernambuco</option>
+<option value="al">Alagoas</option>
+<option value="se">Sergipe</option>
+<option value="ba">Bahia</option>
+<option value="ac">Acre</option>
+<option value="ap">Amapa</option>
+<option value="am">Amazonas</option>
+<option value="pa">Para</option>
+<option value="ro">Rondonia</option>
+<option value="rr">Roraima</option>
+<option value="to">Tocantins</option>
+</select>
+</div>
+<div>
+Escolha um ou mais meios de comunicação:
+<input type="checkbox" name="comunicacao[]" id="comunicacao-musica">
+<label for="comunicacao-musica">Música</label>
+<input type="checkbox" name="comunicacao[]" id="comunicacao-televisao">
+<label for="comunicacao-televisao">Televisão</label>
+<input type="checkbox" name="comunicacao[]" id="comunicacao-radio">
+<label for="comunicacao-radio">Rádio</label>
+</div>
+<div>
+<label for="obs">Observações:</label>
+<textarea id="obs" name="observacoes" style="max-height: 25; resize: none;"></textarea>
+</div>
+<div>
+<input type="submit" value="Enviar">
+<input type="reset" value="Reset">
+</div>
+</form>
+</body>
+</html>
+

@@ -1,5 +1,0 @@
-D:\ETEC-Coisas-Escolares\1 etim ds 2022\Técnicas de Programação e Algoritmo\C#\C Sharp\Rodinei\Rodinei\bin\Debug\Rodinei.exe.config
-D:\ETEC-Coisas-Escolares\1 etim ds 2022\Técnicas de Programação e Algoritmo\C#\C Sharp\Rodinei\Rodinei\bin\Debug\Rodinei.exe
-D:\ETEC-Coisas-Escolares\1 etim ds 2022\Técnicas de Programação e Algoritmo\C#\C Sharp\Rodinei\Rodinei\bin\Debug\Rodinei.pdb
-D:\ETEC-Coisas-Escolares\1 etim ds 2022\Técnicas de Programação e Algoritmo\C#\C Sharp\Rodinei\Rodinei\obj\Debug\Rodinei.exe
-D:\ETEC-Coisas-Escolares\1 etim ds 2022\Técnicas de Programação e Algoritmo\C#\C Sharp\Rodinei\Rodinei\obj\Debug\Rodinei.pdb

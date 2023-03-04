@@ -1,6 +1,0 @@
-c:\users\etim\documents\visual studio 2013\Projects\SOMA\SOMA\bin\Debug\SOMA.exe.config
-c:\users\etim\documents\visual studio 2013\Projects\SOMA\SOMA\bin\Debug\SOMA.exe
-c:\users\etim\documents\visual studio 2013\Projects\SOMA\SOMA\bin\Debug\SOMA.pdb
-c:\users\etim\documents\visual studio 2013\Projects\SOMA\SOMA\obj\Debug\SOMA.csprojResolveAssemblyReference.cache
-c:\users\etim\documents\visual studio 2013\Projects\SOMA\SOMA\obj\Debug\SOMA.exe
-c:\users\etim\documents\visual studio 2013\Projects\SOMA\SOMA\obj\Debug\SOMA.pdb

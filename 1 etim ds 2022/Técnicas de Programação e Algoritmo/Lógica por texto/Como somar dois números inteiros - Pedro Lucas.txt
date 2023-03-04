@@ -1,5 +1,0 @@
-Pense em dois numeors inteiros
-numeros inteiros nao podem ser decimais
-com esses dois numeros realize a adiçao
-nao importa se um numero é positivo ou negativo sempre dara um resultado inteiro sem ser decimal
-ex: +10-25= -15

@@ -1,0 +1,6 @@
+D:\ETEC-Coisas-Escolares\1 etim ds 2022\Técnicas de Programação e Algoritmo\C#\C Sharp\Raquel\Raquel\bin\Debug\Raquel.exe.config
+D:\ETEC-Coisas-Escolares\1 etim ds 2022\Técnicas de Programação e Algoritmo\C#\C Sharp\Raquel\Raquel\obj\Debug\Raquel.csprojResolveAssemblyReference.cache
+D:\ETEC-Coisas-Escolares\1 etim ds 2022\Técnicas de Programação e Algoritmo\C#\C Sharp\Raquel\Raquel\bin\Debug\Raquel.exe
+D:\ETEC-Coisas-Escolares\1 etim ds 2022\Técnicas de Programação e Algoritmo\C#\C Sharp\Raquel\Raquel\bin\Debug\Raquel.pdb
+D:\ETEC-Coisas-Escolares\1 etim ds 2022\Técnicas de Programação e Algoritmo\C#\C Sharp\Raquel\Raquel\obj\Debug\Raquel.exe
+D:\ETEC-Coisas-Escolares\1 etim ds 2022\Técnicas de Programação e Algoritmo\C#\C Sharp\Raquel\Raquel\obj\Debug\Raquel.pdb
