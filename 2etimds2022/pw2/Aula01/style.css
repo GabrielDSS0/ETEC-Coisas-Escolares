@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+}
+
+#top {
+    color: slategray;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+}
+
+a {
+    color: yellow;
+    font-size: 36px;
+}
+
+a:hover {
+    color:blue;
+}
