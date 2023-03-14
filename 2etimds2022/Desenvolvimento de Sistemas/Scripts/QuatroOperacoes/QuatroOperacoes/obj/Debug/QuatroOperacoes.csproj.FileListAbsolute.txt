@@ -1,0 +1,6 @@
+D:\ETECCoisasEscolares\2etimds2022\Desenvolvimento de Sistemas\Scripts\QuatroOperacoes\QuatroOperacoes\bin\Debug\QuatroOperacoes.exe.config
+D:\ETECCoisasEscolares\2etimds2022\Desenvolvimento de Sistemas\Scripts\QuatroOperacoes\QuatroOperacoes\bin\Debug\QuatroOperacoes.exe
+D:\ETECCoisasEscolares\2etimds2022\Desenvolvimento de Sistemas\Scripts\QuatroOperacoes\QuatroOperacoes\bin\Debug\QuatroOperacoes.pdb
+D:\ETECCoisasEscolares\2etimds2022\Desenvolvimento de Sistemas\Scripts\QuatroOperacoes\QuatroOperacoes\obj\Debug\QuatroOperacoes.csprojResolveAssemblyReference.cache
+D:\ETECCoisasEscolares\2etimds2022\Desenvolvimento de Sistemas\Scripts\QuatroOperacoes\QuatroOperacoes\obj\Debug\QuatroOperacoes.exe
+D:\ETECCoisasEscolares\2etimds2022\Desenvolvimento de Sistemas\Scripts\QuatroOperacoes\QuatroOperacoes\obj\Debug\QuatroOperacoes.pdb

@@ -1,0 +1,6 @@
+D:\ETECCoisasEscolares\2etimds2022\Desenvolvimento de Sistemas\Scripts\SomaDoisNumeros\SomaDoisNumeros\bin\Debug\SomaDoisNumeros.exe.config
+D:\ETECCoisasEscolares\2etimds2022\Desenvolvimento de Sistemas\Scripts\SomaDoisNumeros\SomaDoisNumeros\bin\Debug\SomaDoisNumeros.exe
+D:\ETECCoisasEscolares\2etimds2022\Desenvolvimento de Sistemas\Scripts\SomaDoisNumeros\SomaDoisNumeros\bin\Debug\SomaDoisNumeros.pdb
+D:\ETECCoisasEscolares\2etimds2022\Desenvolvimento de Sistemas\Scripts\SomaDoisNumeros\SomaDoisNumeros\obj\Debug\SomaDoisNumeros.csprojResolveAssemblyReference.cache
+D:\ETECCoisasEscolares\2etimds2022\Desenvolvimento de Sistemas\Scripts\SomaDoisNumeros\SomaDoisNumeros\obj\Debug\SomaDoisNumeros.exe
+D:\ETECCoisasEscolares\2etimds2022\Desenvolvimento de Sistemas\Scripts\SomaDoisNumeros\SomaDoisNumeros\obj\Debug\SomaDoisNumeros.pdb
