@@ -1,0 +1,73 @@
+body {
+    background-color: rgb(65, 63, 63);
+}
+
+.top {
+    text-align: center;
+    color: white;
+    margin-top: 3%;
+    padding: 5px;
+}
+
+.urna {
+    text-align: center;
+    padding-top: 2px;
+    margin-right: 15px;
+
+}
+
+.urna button {
+    background-color: black;
+    margin-right: 12px;
+}
+
+button {
+    font-size: 30px;
+    color: white;
+    width: 10%;
+}
+
+.btnOther button {
+    font-size: 200%;
+    width: 15%;
+    margin-top: 15px;
+    color: black;
+}
+
+#branco {
+    background-color: white;
+}
+
+#corrige {
+    background-color: orange;
+}
+
+#confirma {
+    background-color: green;
+}
+
+#presidentes {
+    color: red;
+
+}
+
+#presidentes:hover {
+    color: green;
+}
+
+.presidentesLista img {
+    width: 350px;
+    height: 300px;
+    padding: 20px 20px 0px 0px;
+}
+
+.presidentesLista div {
+    width: 350px;
+    height: 300px;
+    text-align: center;
+    font-size: 24px;
+    color: white; 
+    float: left;
+    margin-top: 10%;
+    margin-left: 5%;
+}
