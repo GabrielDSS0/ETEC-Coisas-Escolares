@@ -28,7 +28,7 @@ button {
 }
 
 .btnOther button {
-    font-size: 200%;
+    font-size: 40px;
     width: 15%;
     margin-top: 15px;
     color: black;
@@ -51,6 +51,12 @@ button {
 
 }
 
+#back {
+    background-color: black;
+    margin: 1%;
+    width: 20%;
+}
+
 #presidentes:hover {
     color: green;
 }
@@ -68,6 +74,10 @@ button {
     font-size: 24px;
     color: white; 
     float: left;
-    margin-top: 10%;
-    margin-left: 5%;
+    margin-bottom: 5%;
+    margin-left: 30px;
+}
+
+#aaa {
+    text-align: right;
 }

@@ -1,0 +1,5 @@
+D:\ETECCoisasEscolares\2etimds2022\Desenvolvimento de Sistemas\Scripts\Funcionario\Funcionario\bin\Debug\Funcionario.exe.config
+D:\ETECCoisasEscolares\2etimds2022\Desenvolvimento de Sistemas\Scripts\Funcionario\Funcionario\bin\Debug\Funcionario.exe
+D:\ETECCoisasEscolares\2etimds2022\Desenvolvimento de Sistemas\Scripts\Funcionario\Funcionario\bin\Debug\Funcionario.pdb
+D:\ETECCoisasEscolares\2etimds2022\Desenvolvimento de Sistemas\Scripts\Funcionario\Funcionario\obj\Debug\Funcionario.exe
+D:\ETECCoisasEscolares\2etimds2022\Desenvolvimento de Sistemas\Scripts\Funcionario\Funcionario\obj\Debug\Funcionario.pdb

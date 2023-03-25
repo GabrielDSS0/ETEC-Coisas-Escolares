@@ -1,0 +1,6 @@
+D:\ETECCoisasEscolares\2etimds2022\Desenvolvimento de Sistemas\Scripts\Orcamento\Orcamento\bin\Debug\Orcamento.exe.config
+D:\ETECCoisasEscolares\2etimds2022\Desenvolvimento de Sistemas\Scripts\Orcamento\Orcamento\bin\Debug\Orcamento.exe
+D:\ETECCoisasEscolares\2etimds2022\Desenvolvimento de Sistemas\Scripts\Orcamento\Orcamento\bin\Debug\Orcamento.pdb
+D:\ETECCoisasEscolares\2etimds2022\Desenvolvimento de Sistemas\Scripts\Orcamento\Orcamento\obj\Debug\Orcamento.csprojResolveAssemblyReference.cache
+D:\ETECCoisasEscolares\2etimds2022\Desenvolvimento de Sistemas\Scripts\Orcamento\Orcamento\obj\Debug\Orcamento.exe
+D:\ETECCoisasEscolares\2etimds2022\Desenvolvimento de Sistemas\Scripts\Orcamento\Orcamento\obj\Debug\Orcamento.pdb
