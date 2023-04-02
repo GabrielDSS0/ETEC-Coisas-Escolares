@@ -14,8 +14,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        TextView txtNumero1;
-        TextView txtNumero2;
         TextView txtResult;
 
         EditText ptxtNumero1;
@@ -26,8 +24,6 @@ public class MainActivity extends AppCompatActivity {
         Button btnMult;
         Button btnDiv;
 
-        txtNumero1 = findViewById(R.id.txtNumero1);
-        txtNumero2 = findViewById(R.id.txtNumero2);
         txtResult = findViewById(R.id.txtResult);
 
         ptxtNumero1 = findViewById(R.id.ptxtNumero1);
